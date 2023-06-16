@@ -8,7 +8,7 @@
 
 Front-end разработкой занимаюсь с января 2021г.
 
-Основной стек: JavaScript, ReactJS, Redux, TS.
+Основной стек: JavaScript, ReactJS, Redux, NextJS, TS.
 
 Я высоко мотивирован и заряжен на:
 
