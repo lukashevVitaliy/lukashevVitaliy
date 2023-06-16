@@ -21,6 +21,6 @@ Front-end разработкой занимаюсь с января 2021г.
 
 ___
 ### Контакты:
-__telegram:__ _@vitalii_lukashev (предпочтительно)_
-__email:__ _lukashev.vitalij@gmail.com_
+__telegram:__ _@vitalii_lukashev (предпочтительно)_\
+__email:__ _lukashev.vitalij@gmail.com_\
 __phone:__ _+7(959) 104-80-26_
